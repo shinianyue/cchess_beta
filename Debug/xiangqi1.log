@@ -1,0 +1,6 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  xiangqi1Dlg.cpp
+C:\Users\十年月\Desktop\中国象棋 - 副本\Thinker.h(1,1): warning C4828: 文件包含在偏移 0x6 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\十年月\Desktop\中国象棋 - 副本\Thinker.h(1,1): warning C4828: 文件包含在偏移 0x6 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\十年月\Desktop\中国象棋 - 副本\xiangqi1Dlg.cpp(375,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  xiangqi1.vcxproj -> C:\Users\十年月\Desktop\中国象棋 - 副本\Debug\xiangqi1.exe
